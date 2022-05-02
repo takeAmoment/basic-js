@@ -20,7 +20,7 @@ function repeater(str, options) {
   // remove line with error and write your code here
   let arr = [];
 	let additionArr;
-	let additionStr;gitt
+	let additionStr;
 	let resultStr;
   let separator = options.separator;
 	let repeatTimes = options.repeatTimes;
